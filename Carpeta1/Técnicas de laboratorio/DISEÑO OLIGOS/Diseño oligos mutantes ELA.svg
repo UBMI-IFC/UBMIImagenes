@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300mm"
+   height="102mm"
+   viewBox="0 0 300 102"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="Diseño oligos mutantes ELA.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.0230034"
+     inkscape:cx="526.87999"
+     inkscape:cy="297.16422"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="35"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path15" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path15-2" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;stroke-width:1"
+       id="rect1"
+       width="259.69211"
+       height="5.8522167"
+       x="21.945812"
+       y="46.324024"
+       rx="3.0201635"
+       ry="3.0201635" />
+    <rect
+       style="fill:#000080;stroke-width:1.30142"
+       id="rect2"
+       width="56.50193"
+       height="19.429842"
+       x="26.334976"
+       y="39.695904"
+       rx="4.9109979"
+       ry="3.1457858" />
+    <rect
+       style="fill:#000080;stroke-width:1.27388"
+       id="rect2-3"
+       width="56.387188"
+       height="18.65394"
+       x="218.81635"
+       y="40.997707"
+       rx="4.9010243"
+       ry="3.0201635" />
+    <rect
+       style="fill:#d45500;stroke-width:1.17014"
+       id="rect3"
+       width="86.265053"
+       height="24.871923"
+       x="108.49866"
+       y="36.082638"
+       rx="3.2230916"
+       ry="3.8749268" />
+    <rect
+       style="fill:#d40055;stroke-width:0.82624"
+       id="rect4"
+       width="17.988319"
+       height="25.08618"
+       x="142.10785"
+       y="35.975513"
+       rx="1.8337312"
+       ry="3.3957429" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:8.46667px;font-family:'Adwaita Mono';-inkscape-font-specification:'Adwaita Mono Bold';writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke-width:1"
+       x="30.180874"
+       y="52.630749"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="fill:#ffffff;stroke-width:1"
+         x="30.180874"
+         y="52.630749">b_F1_hSOD1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:8.46667px;font-family:'Adwaita Mono';-inkscape-font-specification:'Adwaita Mono Bold';writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:51.9656;display:inline;fill:#ffffff;stroke-width:1"
+       x="115.07857"
+       y="79.993629"
+       id="text4-6"
+       transform="translate(-4.6554099,-29.237528)"><tspan
+         x="115.07857"
+         y="79.993629"
+         id="tspan1">s_F1_X</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:8.46667px;font-family:'Adwaita Mono';-inkscape-font-specification:'Adwaita Mono Bold';writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke-width:1"
+       x="222.65242"
+       y="52.703381"
+       id="text4-1"><tspan
+         sodipodi:role="line"
+         id="tspan4-2"
+         style="fill:#ffffff;stroke-width:1"
+         x="222.65242"
+         y="52.703381">b_R1_hSOD1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:8.46667px;font-family:'Adwaita Mono';-inkscape-font-specification:'Adwaita Mono Bold';writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke-width:1"
+       x="143.54179"
+       y="51.197613"
+       id="text5"><tspan
+         sodipodi:role="line"
+         style="stroke-width:1"
+         x="143.54179"
+         y="51.197613"
+         id="tspan6">ELA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:8.46667px;font-family:'Adwaita Mono';-inkscape-font-specification:'Adwaita Mono Bold';writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke-width:1"
+       x="161.64616"
+       y="50.68034"
+       id="text7"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         style="stroke-width:1"
+         x="161.64616"
+         y="50.68034">s_R1_X</tspan></text>
+    <path
+       style="fill:#170b28;stroke-width:1"
+       d="m 112.50574,71.371051 c 79.91787,0.258636 79.91787,0.258636 79.91787,0.258636"
+       id="path7" />
+    <path
+       style="fill:#7137c8;stroke:#000080;stroke-width:1;stroke-opacity:1"
+       d="M 27.156557,65.422472 C 82.245573,65.163839 82.245573,65.163839 82.245573,65.163839"
+       id="path8" />
+    <path
+       style="fill:#7137c8;stroke:#d45500;stroke-width:1;stroke-opacity:1"
+       d="m 108.88486,66.703744 32.32923,0.517268"
+       id="path9" />
+    <path
+       style="fill:#7137c8;stroke:#d40055;stroke-width:1;stroke-opacity:1"
+       d="m 143.80044,33.093238 h 14.74213"
+       id="path10" />
+    <path
+       style="fill:#7137c8;stroke:#d45500;stroke-width:1;stroke-opacity:1"
+       d="m 159.83574,67.221011 h 34.39831"
+       id="path11" />
+    <path
+       style="fill:#000080;stroke:#000080;stroke-width:1;stroke-opacity:1"
+       d="m 221.3906,65.163838 53.79585,0.775904"
+       id="path12" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Adwaita Mono';-inkscape-font-specification:'Adwaita Mono';writing-mode:lr-tb;direction:ltr;fill:#000080;stroke:#d45500;stroke-width:1;stroke-opacity:1"
+       x="114.83344"
+       y="74.697601"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Adwaita Mono';-inkscape-font-specification:'Adwaita Mono';stroke:#d45500;stroke-width:1;stroke-opacity:1"
+         x="114.83344"
+         y="74.697601">15 nt</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Adwaita Mono';-inkscape-font-specification:'Adwaita Mono';writing-mode:lr-tb;direction:ltr;fill:#000080;stroke:#d45500;stroke-width:1;stroke-opacity:1"
+       x="166.45848"
+       y="75.512047"
+       id="text12-8"><tspan
+         sodipodi:role="line"
+         id="tspan12-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Adwaita Mono';-inkscape-font-specification:'Adwaita Mono';stroke:#d45500;stroke-width:1;stroke-opacity:1"
+         x="166.45848"
+         y="75.512047">15 nt</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Adwaita Mono';-inkscape-font-specification:'Adwaita Mono';writing-mode:lr-tb;direction:ltr;fill:#000080;stroke:#d40055;stroke-width:1;stroke-opacity:1"
+       x="142.76588"
+       y="29.989632"
+       id="text13"><tspan
+         sodipodi:role="line"
+         id="tspan13"
+         style="stroke:#d40055;stroke-width:1;stroke-opacity:1"
+         x="142.76588"
+         y="29.989632">3 nt</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Adwaita Mono';-inkscape-font-specification:'Adwaita Mono';writing-mode:lr-tb;direction:ltr;fill:#000080;stroke:#000080;stroke-width:1;stroke-opacity:1"
+       x="43.967758"
+       y="72.664223"
+       id="text14"><tspan
+         sodipodi:role="line"
+         id="tspan14"
+         style="stroke:#000080;stroke-width:1;stroke-opacity:1"
+         x="43.967758"
+         y="72.664223">19 nt</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Adwaita Mono';-inkscape-font-specification:'Adwaita Mono';writing-mode:lr-tb;direction:ltr;fill:#000080;stroke:#000080;stroke-width:1;stroke-opacity:1"
+       x="240.29308"
+       y="72.696907"
+       id="text14-3"><tspan
+         sodipodi:role="line"
+         id="tspan14-7"
+         style="stroke:#000080;stroke-width:1;stroke-opacity:1"
+         x="240.29308"
+         y="72.696907">19 nt</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle)"
+       d="M 22.453551,16.011502 189.27239,16.787403"
+       id="path14"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-2)"
+       d="M 283.81221,86.38922 119.32107,85.613318"
+       id="path14-7"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Adwaita Mono';-inkscape-font-specification:'Adwaita Mono';writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       x="22.970816"
+       y="13.942432"
+       id="text15"><tspan
+         sodipodi:role="line"
+         id="tspan15"
+         style="fill:#000000;stroke:none;stroke-width:1"
+         x="22.970816"
+         y="13.942432">5'</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Adwaita Mono';-inkscape-font-specification:'Adwaita Mono';writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       x="122.05798"
+       y="94.709053"
+       id="text15-8"><tspan
+         sodipodi:role="line"
+         id="tspan15-4"
+         style="fill:#000000;stroke:none;stroke-width:1"
+         x="122.05798"
+         y="94.709053">5'</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Adwaita Mono';-inkscape-font-specification:'Adwaita Mono';writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       x="179.70297"
+       y="14.459701"
+       id="text16"><tspan
+         sodipodi:role="line"
+         id="tspan16"
+         style="fill:#000000;stroke:none;stroke-width:1"
+         x="179.70297"
+         y="14.459701">3'</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Adwaita Mono';-inkscape-font-specification:'Adwaita Mono';writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       x="277.29926"
+       y="94.756645"
+       id="text16-9"><tspan
+         sodipodi:role="line"
+         id="tspan16-3"
+         style="fill:#000000;stroke:none;stroke-width:1"
+         x="277.29926"
+         y="94.756645">3'</tspan></text>
+  </g>
+</svg>
