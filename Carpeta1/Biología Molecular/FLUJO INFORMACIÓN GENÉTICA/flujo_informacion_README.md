@@ -6,6 +6,4 @@
 
 **Autor:** Ilustración realizada por Ana Laura Pérez Juárez con apoyo de la Unidad de Bioinformática del IFC, UNAM.
 
-**Licencia:** CC BY 4.0
-
 **Año:** 2026
